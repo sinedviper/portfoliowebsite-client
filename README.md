@@ -8,7 +8,6 @@
 * ### React,
 * ### React-Router-Dom,
 * ### React-icons,
-* ### styled-components,
 * ### swiper,
 * ### emailjs-com,
 * ### webpack.
